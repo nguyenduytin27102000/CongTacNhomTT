@@ -20,6 +20,11 @@
     {
         return $a + $b;
     }
+
+    function PhepNhan($a, $b)
+    {
+        return $a * $b;
+    }
     ?>
 
     <h1>Form nhap phep tinh</h1>
