@@ -1,6 +1,7 @@
 # CongTacNhomTT
 Bài tập thực hành github
 Đề bài: Viét chương trình tính toán, cộng trừ nhân chia
+tên file là : tinhtoan.php
 Yêu cầu: Các phép cộng trừ nhân chia viết ra hàm.
 - Tín: cộng 2 số
 - Phước : nhân 2 số
