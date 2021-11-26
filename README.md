@@ -1,5 +1,5 @@
 # CongTacNhomTT
-Bài tập thực hành github
+Bài tập thực hành github Cộng tác
 Đề bài: Viét chương trình tính toán, cộng trừ nhân chia
 tên file là : tinhtoan.php
 Yêu cầu: Các phép cộng trừ nhân chia viết ra hàm.
@@ -7,9 +7,10 @@ Yêu cầu: Các phép cộng trừ nhân chia viết ra hàm.
 - Phước : nhân 2 số
 - Luân: chia 2 số
 - Thoa : trừ 2 số
-Giao diện html: Nằm chung 1 trang với code PHP
-- có 3 dòng input
-- dòng 1: nhập số a
-- dòng 2: nhập số b
-- dòng 3: kết quả
-- 1 bút submit
+- Sơn: chia lấy phần dư 2 số
+- Giao diện html: Nằm chung 1 trang với code PHP
++ có 3 dòng input
++ dòng 1: nhập số a
++ dòng 2: nhập số b
++ dòng 3: kết quả
++ 1 bút submit
