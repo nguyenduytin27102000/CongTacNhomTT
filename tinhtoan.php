@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <<<<<<< HEAD <html lang="en">
 
@@ -43,3 +44,12 @@
 
 
     </html>
+=======
+<?php
+
+    function($a, $b) {
+        return $a * $b;
+    }
+
+?>
+>>>>>>> remotes/origin/Phuoc
